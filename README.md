@@ -2,4 +2,4 @@
 
 Teste
 
-![imagem](http://http://i.imgur.com/RlzddWJ.png)
+![imagem](http://i.imgur.com/RlzddWJ.png)
